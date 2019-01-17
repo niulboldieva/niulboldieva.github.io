@@ -1,0 +1,26 @@
+.header{
+  background-color: olive;
+  text-align: center;
+  }
+
+}
+.about{
+  font-size: 20px;
+}
+h3{
+  color:Azure;
+}
+body{
+  font-family:Georgia;
+  background-image: url("https://static.tumblr.com/tkqqpe9/14Hm5md9x/subtle-pattern-5.jpg");
+}
+
+h1, h2, li{
+  font-family: Helvetica;
+  font-size: 20px;
+  color:blue;
+}
+
+p{
+  font-size: 18px;
+}
