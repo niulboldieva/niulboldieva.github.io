@@ -1,0 +1,30 @@
+body{
+  background-color: grey;
+}
+p{
+  color: hotpink;
+  font-size: 20px;
+}
+
+h1{
+  color: black;
+  text-align: center;
+  text-transform: uppercase;
+  font-family:cursive;
+}
+
+div{
+  margin-bottom: 10px;
+
+}
+
+img{
+  width: 100%;
+}
+
+h1{
+  color: black;
+  text-align: center;
+  text-transform: uppercase;
+  font-family:cursive;
+}
